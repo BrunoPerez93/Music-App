@@ -7,7 +7,9 @@ export default {
   theme: {
     colors:{
       'c-dark': '#212936',
-      'c-white': '#E5E7EB'
+      'c-white': '#E5E7EB',
+      'c-gray': '#4D5562',
+      'c-pink': '#C93B76',
     },
     extend: {},
   },
